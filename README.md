@@ -1,12 +1,11 @@
----------------------
 Requirements:
 ---------------------
+
 
 1. Install "npm" and "Node.js"
 2. Have Basyx Docker Containers running
 
 
----------------------
 Configuration:
 ---------------------
 1. Unpack archive in any folder of your preference
@@ -15,7 +14,6 @@ Configuration:
 	b. make sure your submodel (the aasx file) has the same properties as described in this example code: Geratestatus; AnzahlTeile; ProgrammID; Zeilennummer
 
 
----------------------
 How To:
 ---------------------
 
